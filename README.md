@@ -2,7 +2,7 @@
 
 ## Учебный проект
 
-### Вёрстка: Tailwind
+### верстка: Tailwind
 
 ### frontend: React
 
